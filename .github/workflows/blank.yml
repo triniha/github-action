@@ -39,7 +39,7 @@ jobs:
             # Create WordPress virtual host configuration
             echo '
             <VirtualHost *:80>
-                ServerName 18.181.216.158
+                ServerName 54.224.87.234
                 DocumentRoot /var/www/html/wordpress
 
                 <Directory /var/www/html/wordpress>
